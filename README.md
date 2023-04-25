@@ -1,4 +1,4 @@
-# Imagen-For-Midjourney
+# Imagen
 
 Privacy Policy
 
